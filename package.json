@@ -1,6 +1,6 @@
 {
   "name": "angulartics-google-analytics",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Google Analytics plugin for Angulartics",
   "keywords": [
     "google",
